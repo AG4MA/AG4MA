@@ -2,7 +2,7 @@
 
 I work in Software Engineering, Systems Design, and AI/Automation.  
 My experience spans industrial automation, fintech/banking systems,  
-distributed backend architectures, and applied machine learning.
+distributed backend architectures, data and machine learning.
 
 ### 🔧 Tech I Use
 
