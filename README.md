@@ -12,105 +12,83 @@ and designing systems that scale in real-world environments.
 
 ---
 
-# 🧭 Professional Domains
+## 🧭 Professional Domains & Stacks
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Industrial Automation  
-Technologies:  
-C, C++, C#  
-
-Core experience with embedded logic, industrial systems, real-time processes,  
-and automation workflows requiring stability and precision.
+### ⚙️ Industrial Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+</p>
+Real-time logic, low-level control, industrial systems, reliability-critical code.
 
 ---
 
-### 💼 Fintech, Banking & Insurance  
-Technologies:  
-Java, Spring Boot, COBOL  
-
-Work across high-reliability environments, legacy systems, financial protocols,  
-and enterprise architectures used in large-scale institutions.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Systems Engineering  
-Technologies:  
-Go, Rust, TypeScript  
-
-Focus on backend services, distributed systems, infrastructure, and  
-modern system design for scalable operations.
+### 💼 Fintech, Banking & Insurance
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+Transactional systems, enterprise platforms, legacy integration and interested in COBOL-based infrastructures.
 
 ---
 
-### 🤖 AI & Machine Learning  
-Technologies:  
-Python  
+### 🧩 Systems Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,ts" />
+</p>
+Backend services, distributed architectures, modern infrastructure and service design.
 
-Applied ML, behavioural modelling, decision systems, and intelligent agents  
-for real-world problem-solving.
+---
 
-</td>
-</tr>
-</table>
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+Applied ML, behavioural modelling, decision systems, intelligent autonomous agents.
 
 ---
 
 # 🚀 Projects  
 
-## 🧠 Bimodal Cognitive Transformer — *Side Project*  
-Experimental framework exploring a dual-mode architecture:  
-a reflective model and a reactive model interacting to produce coherent behaviour.  
-Goal: studying how decision patterns and intention emerge in artificial systems.
+### 🧠 Bimodal Cognitive Transformer — *Side Project*  
+Experimental architecture combining a reflective and a reactive cognitive model  
+to study how coherent patterns and intention can emerge in artificial systems.
 
 ---
 
-## 🛰️ UDRS — Urban Drone Response System  
-Modular emergency-response platform based on autonomous drones.  
+### 🛰️ UDRS — Urban Drone Response System — *Side Project*  
+Autonomous modular response system for dense urban environments.  
 Provides:  
-- real-time analysis  
+- real-time situational analysis  
 - remote support for responders  
-- proactive prevention  
+- proactive safety mechanisms  
 - micro-medical logistics  
-- non-lethal intervention  
+- non-lethal intervention options  
 
-Key concept: the **Urban Neural Layer**,  
-a sensory-operational layer that anticipates human response  
-and reduces critical reaction times.
+Concept: **Urban Neural Layer** —  
+a sensory-operational layer that anticipates human intervention  
+and compresses critical reaction times.
 
 ---
 
-## 📡 Behavioural & Decision Systems  
-Tools and models for analysing collective patterns,  
+### 📡 Behavioural & Decision Systems  
+Models and tools for analysing behavioural patterns,  
 data-driven decision processes,  
 and early-warning signals in complex environments.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AG4MA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG4MA&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 📐 Principles  
+## 📐 Principles  
 
 - Keep systems clean and predictable  
 - Structure first, implementation second  
@@ -119,7 +97,7 @@ and early-warning signals in complex environments.
 
 ---
 
-# 🌐 Links  
+## 🌐 Links  
 - LinkedIn  
 - Personal Website  
 
