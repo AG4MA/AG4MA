@@ -1,40 +1,57 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=00A3FF&center=true&vCenter=true&width=700&lines=Mind+Systems+Architect;Complex+Systems+%7C+Cognitive+Agents+%7C+Decision+Structures;Designing+Structures+for+Minds%2C+Agents%2C+and+Societies;Behaviour+Emergence+%7C+Systemic+Risk+%7C+Collective+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=1E90FF&center=true&vCenter=true&width=550&lines=Software+Engineering;Systems+Design;AI+and+Automation" />
 </p>
 
 ---
 
-# 📡 Mind Systems — Structures, Agents, Decisions  
+# Software Engineering · Systems Design · AI & Automation  
 
-I design and study complex systems: minds, agents, collective dynamics, and decision-making architectures.  
-My work blends cognitive engineering, behavioural modelling, systems theory, and computational structure.
+I work across engineering, automation, financial systems, and applied AI/ML.  
+My focus is building reliable structures, analysing behaviour through data,  
+and designing systems that scale in real-world environments.
 
 ---
+
+# 🧭 Professional Domains
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 🧭 Focus Areas
-- Cognitive systems & emergent behaviour  
-- Distributed agents & artificial societies  
-- Decision modelling & behavioural data  
-- Structural thinking, resilience, systemic risk  
+### ⚙️ Industrial Automation  
+Technologies:  
+C, C++, C#  
+
+Core experience with embedded logic, industrial systems, real-time processes,  
+and automation workflows requiring stability and precision.
+
+---
+
+### 💼 Fintech, Banking & Insurance  
+Technologies:  
+Java, Spring Boot, COBOL  
+
+Work across high-reliability environments, legacy systems, financial protocols,  
+and enterprise architectures used in large-scale institutions.
 
 </td>
 <td width="50%" valign="top">
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,go,rust,ts" />
-</p>
+### 🧩 Systems Engineering  
+Technologies:  
+Go, Rust, TypeScript  
 
-<p>
-  <img src="https://img.shields.io/badge/COBOL-00427E?style=flat-square" />
-</p>
+Focus on backend services, distributed systems, infrastructure, and  
+modern system design for scalable operations.
 
-Programming as a modelling instrument —  
-a way to express structure, not an end in itself.
+---
+
+### 🤖 AI & Machine Learning  
+Technologies:  
+Python  
+
+Applied ML, behavioural modelling, decision systems, and intelligent agents  
+for real-world problem-solving.
 
 </td>
 </tr>
@@ -44,35 +61,34 @@ a way to express structure, not an end in itself.
 
 # 🚀 Projects  
 
-## 🧠 Bimodal Cognitive Transformer — *SideProj*
-A research framework exploring a dual-mode cognitive architecture:  
-reflective + reactive models interacting through complex-system dynamics.  
-Goal: understanding coherence, intention, and emergent behaviour in artificial agents.
+## 🧠 Bimodal Cognitive Transformer — *Side Project*  
+Experimental framework exploring a dual-mode architecture:  
+a reflective model and a reactive model interacting to produce coherent behaviour.  
+Goal: studying how decision patterns and intention emerge in artificial systems.
 
 ---
 
-## 🛰️ UDRS — Urban Drone Response System
-A modular emergency-response system built on autonomous drones for dense urban environments.  
+## 🛰️ UDRS — Urban Drone Response System  
+Modular emergency-response platform based on autonomous drones.  
 Provides:  
-- real-time situational analysis  
-- remote law-enforcement support  
-- proactive urban safety  
+- real-time analysis  
+- remote support for responders  
+- proactive prevention  
 - micro-medical logistics  
-- non-lethal interventions  
+- non-lethal intervention  
 
-Key innovation: the **Urban Neural Layer** —  
-a sensory-operational mesh that anticipates human response and compresses critical reaction time.
+Key concept: the **Urban Neural Layer**,  
+a sensory-operational layer that anticipates human response  
+and reduces critical reaction times.
 
 ---
 
 ## 📡 Behavioural & Decision Systems  
-Models and tools for collective behaviour analysis,  
-data-driven social engineering,  
-and decision structures in complex adaptive systems.  
-Focus on early-warning signals and systemic fragility.
+Tools and models for analysing collective patterns,  
+data-driven decision processes,  
+and early-warning signals in complex environments.
 
 ---
-
 
 # 📊 GitHub Analytics
 
@@ -94,16 +110,14 @@ Focus on early-warning signals and systemic fragility.
 
 ---
 
-
 # 📐 Principles  
 
-- Structural thinking over procedural thinking  
-- Model before implementation  
-- Clear architectures, coherent behaviours  
-- Systems built to enhance humanity, not replace it  
+- Keep systems clean and predictable  
+- Structure first, implementation second  
+- Clarity over complexity  
+- Technology as support, not replacement  
 
 ---
-
 
 # 🌐 Links  
 - LinkedIn  
@@ -112,5 +126,5 @@ Focus on early-warning signals and systemic fragility.
 ---
 
 <p align="center">
-  <sub>“Understanding structure is understanding possibility.”</sub>
+  <sub>"Simple systems scale. Clear systems last."</sub>
 </p>
