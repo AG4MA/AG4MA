@@ -74,17 +74,6 @@ Models and tools for analysing behavioural patterns,
 data-driven decision processes,  
 and early-warning signals in complex environments.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AG4MA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG4MA&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
