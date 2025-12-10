@@ -20,8 +20,8 @@ distributed backend architectures, data and machine learning.
 
 ### 🔭 What I'm working on
 - Bimodal Cognitive Transformer — experiments on communication between AI models through latent states instead of natural language.
-- UDRS — autonomous drone system for urban response  
 - Behavioural & Decision Models — analysing patterns in complex systems
+- From Biology — ispiring phenomena that can be trasposed in computers
 
 ### 🌱 What I'm exploring
 Systems reliability, high-scale architectures, applied AI, and decision modelling.
