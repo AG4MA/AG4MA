@@ -4,9 +4,16 @@ I work in Software Engineering, Systems Design, and AI/Automation.
 My experience spans industrial automation, fintech/banking systems,  
 distributed backend architectures, and applied machine learning.
 
-### 🔧 Tech I use
-C • C++ • C# • Java/Spring • COBOL  
-Go • Rust • TypeScript • Python
+### 🔧 Tech I Use
+
+**Industrial Automation**  
+<img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+**Fintech, Banking & Insurance**  
+<img src="https://skillicons.dev/icons?i=java,spring" /> • COBOL
+**Systems Engineering**  
+<img src="https://skillicons.dev/icons?i=go,rust,ts" />
+**AI / ML / Data**  
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### 🔭 What I'm working on
 - Bimodal Cognitive Transformer — experiments on communication between AI models through latent states instead of natural language.
