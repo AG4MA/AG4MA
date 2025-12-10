@@ -1,4 +1,4 @@
-## Hi there 👋 I'm AG4MA
+## Hi there 👋 I'm AGAMA
 
 I work in Software Engineering, Systems Design, and AI/Automation.  
 My experience spans industrial automation, fintech/banking systems,  
