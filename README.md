@@ -17,6 +17,6 @@ Go • Rust • TypeScript • Python
 Systems reliability, high-scale architectures, applied AI, and decision modelling.
 
 ### 📫 Reach me
-LinkedIn • Personal Website
+📫 Telegram: [@AG4M4](https://t.me/AG4M4)
 
 *"Simple systems scale. Clear systems last."*
