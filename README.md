@@ -9,7 +9,7 @@ C • C++ • C# • Java/Spring • COBOL
 Go • Rust • TypeScript • Python
 
 ### 🔭 What I'm working on
-- Bimodal Cognitive Transformer — experiments on decision patterns  
+- Bimodal Cognitive Transformer — experiments on communication between AI models through latent states instead of natural language.
 - UDRS — autonomous drone system for urban response  
 - Behavioural & Decision Models — analysing patterns in complex systems
 
