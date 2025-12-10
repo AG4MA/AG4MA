@@ -8,10 +8,13 @@ distributed backend architectures, and applied machine learning.
 
 **Industrial Automation**  
 <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+
 **Fintech, Banking & Insurance**  
 <img src="https://skillicons.dev/icons?i=java,spring" />
+
 **Systems Engineering**  
 <img src="https://skillicons.dev/icons?i=go,rust,ts" />
+
 **AI / ML / Data**  
 <img src="https://skillicons.dev/icons?i=python" />
 
