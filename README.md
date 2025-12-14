@@ -7,7 +7,7 @@ distributed backend architectures, data and machine learning.
 ### 🔧 Tech I Use
 
 **Industrial Automation**  
-<img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=c,cpp,dotnet" />
 
 **Fintech, Banking & Insurance**  
 <img src="https://skillicons.dev/icons?i=java,spring" />
